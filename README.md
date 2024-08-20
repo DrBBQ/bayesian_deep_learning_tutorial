@@ -20,7 +20,7 @@ It is recommended that a Python 3.9 virtual environment is created for executing
 
 ## Referencing
 
-If referencing content from this tutorial, please reference the book Enhancing Deep Learning with Bayesian Inference by Matt Benatan, Jochem Gietema, and Marian Schneider. Bibtx reference:
+If referencing content from this tutorial, please reference the book Enhancing Deep Learning with Bayesian Inference by Matt Benatan, Jochem Gietema, and Marian Schneider. Bibtex reference:
 ```@book{benatan2023enhancing,
   title={Enhancing Deep Learning with Bayesian Inference: Create More Powerful, Robust Deep Learning Systems with Bayesian Deep Learning in Python},
   author={Benatan, M. and Gietema, J. and Schneider, M.},
