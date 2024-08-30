@@ -14,13 +14,13 @@ def sample_die(n_samples, sides=6):
 samples = sample_die(10) + 3
 sns.histplot(x=samples, stat="probability",
              bins=6, discrete=True)
-plt.title("Dice example: 100 samples")
+plt.title("Dice example: 10 samples")
 
 
 
 fig = plt.gcf()
 fig.set_size_inches(10, 6)
-plt.savefig("die_example_100.png")
+plt.savefig("die_example_10.png")
 plt.close()
 
 
